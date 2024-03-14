@@ -101,6 +101,7 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 # Output
 ![Uploading ebd -1.png…]()
+
 ![Uploading ebd-2.png…]()
 
 
